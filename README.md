@@ -112,11 +112,12 @@ Predicts possible diseases from symptoms and provides precautions.
 ### Programming Concepts
 
 Java with OOP
+
 Data Structures and Algorithms
 
 ---
 
-### Machine Learning / Deep Learning
+### ML / DL
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic\&logo=tensorflow\&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=plastic\&logo=scikitlearn\&logoColor=white)

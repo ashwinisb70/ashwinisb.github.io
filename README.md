@@ -10,25 +10,38 @@
 MCA Student passionate about Artificial Intelligence, Machine Learning, and Software Development.
 </p>
 
----
-
-<h2 align="center"> About Me </h2>
-
-I am currently pursuing **MCA at Nitte Meenakshi Institute of Technology, Bengaluru**.
-I enjoy building projects using **Python and Machine Learning** to solve real-world problems.
-I have experience working with **Deep Learning, Computer Vision, and Data Analysis**.
-Currently focusing on improving **Data Structures and Algorithms for strong problem-solving skills**.
+<p align="center">
+Python • Machine Learning • Deep Learning • Computer Vision • Data Analysis • Data Structures
+</p>
 
 ---
 
-<h2 align="center"> Education </h2>
+## <p align="center">About Me</p>
+
+I am currently pursuing **Master of Computer Applications (MCA)** at **Nitte Meenakshi Institute of Technology, Bengaluru**.
+
+I enjoy building projects using **Python and Machine Learning** to solve real-world problems and develop intelligent systems.
+
+Currently I am focusing on:
+
+* Strengthening **Data Structures and Algorithms**
+* Building **AI / ML based applications**
+* Improving **problem solving and coding skills**
+
+I have hands-on experience with **Deep Learning, Computer Vision, and Data Analysis**.
+
+---
+
+## <p align="center">Education</p>
 
 <p align="center">
 
 <strong>Master of Computer Applications (MCA)</strong><br>
 Nitte Meenakshi Institute of Technology, Bengaluru<br>
 CGPA: <b>8.0</b>
-<br><br>
+
+<br>
+
 <strong>Bachelor of Computer Applications (BCA)</strong><br>
 KLE Society's College of BCA, Gokak<br>
 CGPA: <b>8.67</b>
@@ -37,104 +50,121 @@ CGPA: <b>8.67</b>
 
 ---
 
-<h2 align="center"> Featured Projects </h2>
+## <p align="center">Featured Projects</p>
+
+### Crop Disease Detection
+
+Detects crop diseases using deep learning and image processing.
+
+**Tech:** Python • TensorFlow • OpenCV • CNN
+
+---
+
+### Lip Reading using Deep Learning
+
+Recognizes spoken words by analyzing lip movements.
+
+**Tech:** Python • TensorFlow • OpenCV • CNN • LSTM
+
+---
+
+### Soil Quality Analysis
+
+Analyzes soil data and recommends suitable crops.
+
+**Tech:** Python • Pandas • NumPy • Matplotlib
+
+---
+
+### Coffee Leaf Disease Detection (CNN – 92%)
+
+High-accuracy CNN model built using TensorFlow.
+
+Full-stack web platform using Flask & React with multilingual support.
+
+---
+
+### Rainfall Prediction (Ensemble ML)
+
+Predicts rainfall using ensemble machine learning models.
+
+Feature engineering and visualization used for improved prediction.
+
+---
+
+### AI Healthcare Chatbot
+
+Predicts possible diseases from symptoms and provides precautions.
+
+**Tech:** Python • Machine Learning • Random Forest • Streamlit
+
+---
+
+## <p align="center">Tech Skills</p>
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic\&logo=mysql\&logoColor=white)
+
+---
+
+### Programming Concepts
+
+Java with OOP
+Data Structures and Algorithms
+
+---
+
+### Machine Learning / Deep Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic\&logo=tensorflow\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=plastic\&logo=scikitlearn\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic\&logo=pandas\&logoColor=white)
+
+---
+
+### Computer Vision
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic\&logo=opencv\&logoColor=white)
+
+---
+
+### Web Development
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=plastic\&logo=flask\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic\&logo=streamlit\&logoColor=white)
+
+---
+
+### Tools
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic\&logo=github\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic\&logo=jupyter\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=plastic\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic\&logo=mysql\&logoColor=white)
+
+---
+
+## <p align="center">GitHub Stats</p>
 
 <p align="center">
 
- <b>Crop Disease Detection</b><br>
-Detects crop diseases using deep learning and image processing.<br> <b>Tech:</b> Python • TensorFlow • OpenCV • CNN
+<img src="https://github-readme-stats.vercel.app/api?username=ashwinisb70&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60" height="180"/>
 
-<br><br>
-
- <b>Lip Reading using Deep Learning</b><br>
-Recognizes spoken words by analyzing lip movements using deep learning.<br> <b>Tech:</b> Python • TensorFlow • OpenCV • CNN • LSTM
-
-<br><br>
-
- <b>Rainfall Prediction</b><br>
-Predicts rainfall using machine learning algorithms.<br> <b>Tech:</b> Python • AdaBoost • Matplotlib
-
-<br><br>
-
- <b>Soil Quality Analysis</b><br>
-Analyzes soil data and recommends suitable crops.<br> <b>Tech:</b> Python • Pandas • NumPy • Matplotlib
-
-<br><br>
-
- <b>Coffee Plant Disease Detection Web App</b><br>
-Deep learning web application that classifies coffee plant diseases from leaf images using a CNN model with a Flask API.<br> <b>Tech:</b> Python • TensorFlow • CNN • Flask • OpenCV
-
-<br><br>
-
- <b>AI Healthcare Chatbot</b><br>
-Machine learning chatbot that predicts possible diseases from user symptoms and provides precautions.<br> <b>Tech:</b> Python • Machine Learning • Random Forest • Streamlit
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinisb70&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" height="180"/>
 
 </p>
 
 ---
 
-<h2 align="center"> Tech Skills </h2>
-
-<p align="center">
-
-<b>Languages:</b><br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)      
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-</br><br>
-
-<b>Concepts:</b><br>
-Java with Oops
-
-Data Structure and Algorithms
-</br><br>
-
-
-<b>Deep Learning / ML:</b><br>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)   
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)   
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)   
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-</br><br>
-
-
-<b>Computer Vision:</b><br>
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-</br><br>
-
-
-<b>Web / App Development:</b><br>
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)   
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-</br><br>
-
-
-<b>Tools:</b><br>
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)   
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)   
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)  
-</br><br>
-
-
-<b>Database:</b><br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-</p>
-
----
-
-<h2 align="center"> GitHub Stats </h2>
-
-<p align="center">
-
- <img src="https://github-readme-stats.vercel.app/api?username=ashwinisb70&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60" height="180" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinisb70&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" height="180" />
-
-</p>
-
----
-
-<h2 align="center"> Contribution Streak </h2>
+## <p align="center">Contribution Streak</p>
 
 <p align="center">
 
@@ -144,7 +174,7 @@ Data Structure and Algorithms
 
 ---
 
-<h2 align="center"> Contribution Graph </h2>
+## <p align="center">Contribution Graph</p>
 
 <p align="center">
 
@@ -154,7 +184,7 @@ Data Structure and Algorithms
 
 ---
 
-<h2 align="center"> Profile Summary </h2>
+## <p align="center">Profile Summary</p>
 
 <p align="center">
 
@@ -168,7 +198,7 @@ Data Structure and Algorithms
 
 ---
 
-<h2 align="center"> Connect With Me </h2>
+## <p align="center">Connect With Me</p>
 
 <p align="center">
 
@@ -184,4 +214,4 @@ Data Structure and Algorithms
 
 ---
 
-<h3 align="center"> Learning • Building • Improving </h3>
+<h3 align="center">Learning • Building • Improving</h3>

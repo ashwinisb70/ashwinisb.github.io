@@ -11,7 +11,7 @@ MCA Student passionate about Artificial Intelligence, Machine Learning, and Soft
 </p>
 
 <p align="center">
-Python • Machine Learning • Deep Learning • Computer Vision • Data Analysis • Data Structures
+Python • Machine Learning • Deep Learning • Computer Vision • Data Analysis 
 </p>
 
 ---

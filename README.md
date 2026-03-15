@@ -76,14 +76,6 @@ Analyzes soil data and recommends suitable crops.
 
 ---
 
-### Coffee Leaf Disease Detection (CNN – 92%)
-
-High-accuracy CNN model built using TensorFlow.
-
-Full-stack web platform using Flask & React with multilingual support.
-
----
-
 ### Rainfall Prediction (Ensemble ML)
 
 Predicts rainfall using ensemble machine learning models.

@@ -129,10 +129,8 @@ Predicts diseases from symptoms and suggests precautions
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ashwini-sb-3776872a8">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="https://github.com/ashwinisb70">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 </p>
 

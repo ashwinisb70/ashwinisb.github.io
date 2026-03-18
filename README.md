@@ -11,7 +11,7 @@ MCA Student passionate about Artificial Intelligence, Machine Learning, and Soft
 </p>
 
 <p align="center">
-Python • Machine Learning • Deep Learning • Computer Vision • Data Analysis 
+Python • Machine Learning • Numpy • Pandas • Data Analysis 
 </p>
 
 ---
@@ -28,7 +28,7 @@ Currently I am focusing on:
 * Building **AI / ML based applications**
 * Improving **problem solving and coding skills**
 
-I have hands-on experience with **Deep Learning, Computer Vision, and Data Analysis**.
+I have hands-on experience with **Machine Learning, Computer Vision, and Data Analysis**.
 
 ---
 

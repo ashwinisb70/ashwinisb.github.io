@@ -68,13 +68,12 @@ Predicts diseases from symptoms and suggests precautions
 
 ###  Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ###  Core Concepts
 - Data Structures & Algorithms  
-- Object-Oriented Programming (Java)  
+- Object-Oriented Programming (Java) with Oops 
 
 ---
 

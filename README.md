@@ -73,7 +73,7 @@ Predicts diseases from symptoms and suggests precautions
 
 ###  Core Concepts
 - Data Structures & Algorithms  
-- Object-Oriented Programming (Java) with Oops 
+- Java with Oops 
 
 ---
 
